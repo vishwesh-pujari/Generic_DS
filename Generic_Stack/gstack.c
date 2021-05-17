@@ -87,6 +87,7 @@ void destroy_gstack(gstack *s) {
     free(s->arr);
     s->arr = NULL;
     s->size = 0;
+    s->nmemb = 0;
     s->top = -1;
     return;
 }
