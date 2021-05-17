@@ -2,5 +2,3 @@
 Generic Data Structures using C
 
 Data structures of any type (int/float/int*/char*/user-defined) can be created without writing seperate implementations for each type
-
-Made use of Function pointers
